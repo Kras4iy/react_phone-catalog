@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b2e4011.chunk.css",
-    "main.js": "/static/js/main.751ab3fa.chunk.js",
-    "main.js.map": "/static/js/main.751ab3fa.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d2e69211.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d2e69211.js.map",
-    "static/js/2.87a82dab.chunk.js": "/static/js/2.87a82dab.chunk.js",
-    "static/js/2.87a82dab.chunk.js.map": "/static/js/2.87a82dab.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.2b2e4011.chunk.css.map": "/static/css/main.2b2e4011.chunk.css.map",
-    "static/js/2.87a82dab.chunk.js.LICENSE.txt": "/static/js/2.87a82dab.chunk.js.LICENSE.txt",
-    "static/media/Category.scss": "/static/media/Tablets.8398cebe.jpg",
-    "static/media/Withdraw.scss": "/static/media/Close.d99189a5.svg",
-    "static/media/Header.scss": "/static/media/Ellipse.dd713ca5.svg",
-    "static/media/App.scss": "/static/media/Mont-SemiBold.8979d71a.otf",
-    "static/media/Item.scss": "/static/media/favorite.674797e4.svg",
-    "static/media/Path.scss": "/static/media/pathHome.d4c29e4f.svg",
-    "static/media/ItemCarousel.scss": "/static/media/vector.7365d53e.svg"
+    "main.css": "./static/css/main.c7b55b25.chunk.css",
+    "main.js": "./static/js/main.751ab3fa.chunk.js",
+    "main.js.map": "./static/js/main.751ab3fa.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.87a82dab.chunk.js": "./static/js/2.87a82dab.chunk.js",
+    "static/js/2.87a82dab.chunk.js.map": "./static/js/2.87a82dab.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.c7b55b25.chunk.css.map": "./static/css/main.c7b55b25.chunk.css.map",
+    "static/js/2.87a82dab.chunk.js.LICENSE.txt": "./static/js/2.87a82dab.chunk.js.LICENSE.txt",
+    "static/media/Category.scss": "./static/media/Tablets.8398cebe.jpg",
+    "static/media/Withdraw.scss": "./static/media/Close.d99189a5.svg",
+    "static/media/Header.scss": "./static/media/Ellipse.dd713ca5.svg",
+    "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
+    "static/media/Item.scss": "./static/media/favorite.674797e4.svg",
+    "static/media/Path.scss": "./static/media/pathHome.d4c29e4f.svg",
+    "static/media/ItemCarousel.scss": "./static/media/vector.7365d53e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d2e69211.js",
+    "static/js/runtime-main.330dba63.js",
     "static/js/2.87a82dab.chunk.js",
-    "static/css/main.2b2e4011.chunk.css",
+    "static/css/main.c7b55b25.chunk.css",
     "static/js/main.751ab3fa.chunk.js"
   ]
 }
